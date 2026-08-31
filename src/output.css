@@ -518,6 +518,12 @@
   .w-100 {
     width: calc(var(--spacing) * 100);
   }
+  .w-200 {
+    width: calc(var(--spacing) * 200);
+  }
+  .w-2000 {
+    width: calc(var(--spacing) * 2000);
+  }
   .w-\[420px\] {
     width: 420px;
   }
